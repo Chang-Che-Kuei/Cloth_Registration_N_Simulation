@@ -6,7 +6,7 @@ Given a cloth template such as T-shirt, the new T-shirt can be registered by the
 Thus, the cloth registrations have the identical topology which is crucial for training data in machine learning.
 
 ![](Registration.PNG)  
-(Fig 1.) The leftmost cloth is the template, and the green cloth is the target cloth which consisted of different vertices number and structure.  
+(Fig 1.) The leftmost cloth is the template, and the green cloth is the target cloth which consisted of different vertices number and structure.
 The cloth below green cloth is the registration.
 
 ![](Animation.PNG)  
