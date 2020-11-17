@@ -1,4 +1,5 @@
 # Cloth_Registration_N_Simulation  
+[YouTube Video](https://www.youtube.com/watch?v=dVLWum9r-3k) Starts at 1:38
 
 The public 3D cloth dataset is very rare. The available dataset has the limit of geometry missing due to 3D scanner.  
 This work proposes a cloth generation pipeline to produce very precise 3D cloth.
